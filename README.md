@@ -2,6 +2,8 @@
 
 ## Steps
 
+Change de file "firebasekey.json"
+
 ```bash
 # DB install local needs docker
 $ docker compose up -d
